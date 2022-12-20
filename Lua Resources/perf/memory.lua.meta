@@ -5,6 +5,6 @@ ScriptedImporter:
   externalObjects: {}
   serializedVersion: 2
   userData: 
-  assetBundleName: luabundle
+  assetBundleName: 
   assetBundleVariant: 
-  script: {fileID: 11500000, guid: 662fbb65fe98de14fabdd261ff225e2e, type: 3}
+  script: {fileID: -1438072663, guid: 71902d832988bec4d90db5ecfa459c28, type: 3}
