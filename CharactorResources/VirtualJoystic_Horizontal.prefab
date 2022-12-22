@@ -377,8 +377,8 @@ MonoBehaviour:
   axisOptions: 0
   snapX: 0
   snapY: 0
-  background: {fileID: 0}
-  handle: {fileID: 0}
+  background: {fileID: 9118203401018567045}
+  handle: {fileID: 9118203401328126703}
   moveThreshold: 1
   go: {fileID: 0}
 --- !u!1 &9118203401018567044
